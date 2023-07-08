@@ -2,7 +2,6 @@
 
 ## Глава 1
 
-Найстройка GOROOT, GOPATH
-[[goroot]]
+Найстройка GOROOT [[concepts/goroot]], GOPATH
 
 ## Глава 2
